@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/people-randomizer/static/css/main.c6a5f2df.chunk.css",
+    "main.js": "/people-randomizer/static/js/main.7c414c76.chunk.js",
+    "main.js.map": "/people-randomizer/static/js/main.7c414c76.chunk.js.map",
+    "runtime-main.js": "/people-randomizer/static/js/runtime-main.c4a22cf4.js",
+    "runtime-main.js.map": "/people-randomizer/static/js/runtime-main.c4a22cf4.js.map",
+    "static/js/2.de645001.chunk.js": "/people-randomizer/static/js/2.de645001.chunk.js",
+    "static/js/2.de645001.chunk.js.map": "/people-randomizer/static/js/2.de645001.chunk.js.map",
+    "index.html": "/people-randomizer/index.html",
+    "static/css/main.c6a5f2df.chunk.css.map": "/people-randomizer/static/css/main.c6a5f2df.chunk.css.map",
+    "static/js/2.de645001.chunk.js.LICENSE.txt": "/people-randomizer/static/js/2.de645001.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/people-randomizer/static/media/fondo1.655c2045.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4a22cf4.js",
+    "static/js/2.de645001.chunk.js",
+    "static/css/main.c6a5f2df.chunk.css",
+    "static/js/main.7c414c76.chunk.js"
+  ]
+}
